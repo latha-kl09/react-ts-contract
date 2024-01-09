@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #220837;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(116, 3, 3);
+}
+
+.title{
+padding: 20px;
+background-color: aliceblue;
+border-radius: 30px;
+margin-bottom: 20px;
+}
+.buttons{
+font-size: 20px;
+border-radius: 10px;
+padding: 5px;
+
+}
+
+.textbox{
+  align-items: center;
+  background-color: aliceblue;
+  color: black;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
