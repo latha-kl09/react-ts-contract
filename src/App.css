@@ -3,7 +3,6 @@
 }
 
 .App-header {
-  background-color: #220837;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -13,6 +12,9 @@
   color: rgb(116, 3, 3);
 }
 
+.h3{
+color: white;
+}
 .title{
 padding: 20px;
 background-color: aliceblue;
